@@ -32,6 +32,7 @@ def start_timer():
     global label
     label.grid_forget()
 
+#coder
 
 def end_timer():
     global label
